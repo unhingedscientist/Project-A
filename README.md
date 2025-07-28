@@ -1,7 +1,16 @@
 
 # DevSec Scanner
 
-DevSec Scanner is an AI-powered CLI tool that finds actually exploitable vulnerabilities in developer projects. Built by former bug bounty hunters, it provides actionable, contextual fix suggestions and a developer-first experience.
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/devsec-scanner.svg)](https://github.com/YOUR_USERNAME/devsec-scanner/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/YOUR_USERNAME/devsec-scanner/pulls)
+
+> AI-powered security scanner that finds actually exploitable vulnerabilities
+
+## 🚀 The Problem We Solve
+83% of applications have critical security vulnerabilities in production, but existing tools overwhelm developers with 1000+ theoretical issues while missing the 5 critical ones that actually get you hacked.
+
 
 ## 🚀 Value Proposition
 - **Finds real, exploitable bugs** (not just noise)
